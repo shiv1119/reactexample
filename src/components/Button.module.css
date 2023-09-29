@@ -1,0 +1,9 @@
+.buttonprimary{
+    padding: 0.5rem 1.1rem;
+    background: #e2e2e2;
+    color: rgb(31, 31, 31);
+    border: 1px solid rgb(177, 177, 177);
+    font-size: 1.3rem;
+    border-radius: 5px;
+    font-family:'Times New Roman', Times, serif;
+}
